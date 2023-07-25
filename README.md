@@ -2,7 +2,7 @@
 Simple Way to get nouns to learn each day for IGCSE German test
 
 Learning German vocabulary?
-This is a simple python code that provides you germna vocabs for you to learn, it has been populated with 500 + basic A2 German vocabs for you to learn words each day. 
+This is a simple python code that provides you germna vocabs for you to learn, it has been populated with 500+ basic A2 German vocabs for you to learn words each day. 
 
 `german_words.txt`:
 Description: This text file contains a list of German words along with their English translations. Each line in the file follows the format "German word (English translation)". This file serves as a database of German vocabulary.
